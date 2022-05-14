@@ -1,0 +1,20 @@
+{
+  "description": "Demo of react-window horizontal VariableSizeList",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16",
+    "react-dom": "^16",
+    "react-window": "^1"
+  },
+  "name": "bvaughn-react-window-variable-size-list-horizontal",
+  "version": "0.0.51",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
